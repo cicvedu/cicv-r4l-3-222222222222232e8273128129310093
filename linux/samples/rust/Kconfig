@@ -162,5 +162,14 @@ config SAMPLE_RUST_SELFTESTS
 	  This option builds the self test cases for Rust.
 
 	  If unsure, say N.
+	  
+config SAMPLE_RUST_HELLOWORLD
+	tristate "Print Helloworld in Rust"
+	help
+	  This option builds the print hello world use case for Rust.
+
+	  If unsure, say N.
 
 endif # SAMPLES_RUST
+
+
