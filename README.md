@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VsbltiDW)
+# work 1:
+![1-1](./photo/1-1.png)
+![1-2](./photo/1-2.png)
+
+# work 2:
+![2-1](./photo/2-1.png)
+![2-2](./photo/2-2.png)
+
+# work 3:
+![3-1](./photo/3-1.png)
+![3-2](./photo/3-2.png)
+![3-3](./photo/3-3.png)
+![3-4](./photo/3-4.png)
+
